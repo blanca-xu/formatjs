@@ -37,7 +37,7 @@ The workflow looks like this:
 
 1. **Extraction**: This step aggregates all `defaultMessage`s from your application into a single JSON file along with `description`, ready to be translated.
 2. **Edit**: Edit the translations, save when done.
-3. The changes immediately show up in your build
+3. **Build**: The changes immediately show up in your build
 
 ## Complex application workflow with a cloud based translation service
 
